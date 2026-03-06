@@ -5,7 +5,7 @@ To install the add_tool MCP server, run the follow command:
 ```json
 {
   "mcpServers": {
-    "add_tool": {
+    "Chess.com": {
       "command": "uvx",
       "args": [
         "--from",
